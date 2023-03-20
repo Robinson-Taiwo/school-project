@@ -155,7 +155,7 @@ const App = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci sint modi enim sed doloribus suscipit nihil recusandae dolore minima, nostrum molestias architecto officiis nesciunt assumenda dolorum impedit aliquam debitis ducimus!
               Tenetur aperiam at ipsa architecto obcaecati! Ex, sint nostrum. Expedita dolor inventore eius nisi, quis deserunt quo maxime dolore aspernatur perferendis iure fugiat hic nulla animi repellendus eum aliquid debitis.
               Fugit veniam dolores nisi cum porro voluptatum dolore distinctio nostrum quidem dolorem ea commodi optio, quo fugiat accusantium sed autem. Repellendus odit dolore, doloribus harum officia saepe cumque quod impedit.
-              Porroe ducimus culpa eius rem facere ratione consectetur velit architecto sit, quibusdam illo, nemo dolore quia cumque autem distinctio, quasi adipisci. Quis laudantium quisquam ullam soluta sunt.
+              Porrogite ducimus culpa eius rem facere ratione consectetur velit architecto sit, quibusdam illo, nemo dolore quia cumque autem distinctio, quasi adipisci. Quis laudantium quisquam ullam soluta sunt.
               Illo quidem quod aliquid consequatur! Quaerat facere placeat ullam blanditiis culpa assumenda eligendi itaque mollitia modi nihil error magni dolorum fugiat quis, velit veritatis asperiores deleniti! Ducimus quod unde pariatur!
             </p>
           </div>
