@@ -500,7 +500,7 @@ button.slick-arrow.slick-next {
   .value-content {
     box-shadow: -30px 30px 20px rgba(0, 0, 0, 0.3);
 
-    @apply bg-[#e4dcdc] h-[90%] w-[80%] ml-[4rem]
+    @apply bg-[#e4dcdc] h-[90%] w-[100%] ml-[2rem]
   }
 
   .mi-text2 {
@@ -541,7 +541,7 @@ button.slick-arrow.slick-next {
   }
 
   .value-content {
-    @apply p-[2rem] flex justify-center items-center
+    @apply p-[2rem] flex justify-center items-center 
   }
 
   .link.active {
